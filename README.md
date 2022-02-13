@@ -6,8 +6,8 @@
 設定された間隔ごとに設定した音源が再生されます．音源はフリー素材などから各自ダウンロードをお願いします．<br/>
 音源を学校のチャイムにすれば学生気分に戻れたりもします．
 
-一例としてOtoLogicさんの効果音のリンクを載せておきます．
-https://otologic.jp/free/se/school_bell01.html
+一例としてOtoLogicさんの効果音のリンクを載せておきます．</br>
+https://otologic.jp/free/se/school_bell01.html </br>
 .mp3形式なら好きな音源で大丈夫だと思います．
 
 # 設定
