@@ -1,0 +1,7 @@
+Chime Setting
+Sound Path,bell.mp3
+Work,3
+Break,2
+Work,2
+Break,2
+Work,3
